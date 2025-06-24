@@ -7,6 +7,5 @@ import Navbar from "./Navbar.jsx";
 createRoot(document.getElementById("root")).render(
   <>
     <App />
-    <Navbar />
   </>
 );
